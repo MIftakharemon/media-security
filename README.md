@@ -11,7 +11,7 @@ Fully open source end-to-end encrypted photos, authenticators and more.
 Ente is a service that provides a fully open source, end-to-end encrypted
 platform for you to store your data in the cloud without needing to trust the
 service provider. On top of this platform, we have built two apps so far: Ente
-Photos (an alternative to Apple and Google Photos) and Ente Auth (a 2FA
+Photos (an alternative to Apple and Google Photos) ,and Ente Auth (a 2FA
 alternative to the deprecated Authy).
 
 This monorepo contains all our source code - the client apps (iOS / Android /
