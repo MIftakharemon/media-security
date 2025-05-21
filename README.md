@@ -2,7 +2,7 @@
 
 <img src=".github/assets/ente-rocketship.png" width="400"/>
 
-Fully open source end-to-end encrypted photos, authenticators and more.
+Fully open source end-to-end encrypted photos , authenticators and more.
 
 </div>
 
